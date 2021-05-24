@@ -1,0 +1,4 @@
+rootProject.name = "CatMov"
+include ':app'
+include ':core'
+include ':favorite'

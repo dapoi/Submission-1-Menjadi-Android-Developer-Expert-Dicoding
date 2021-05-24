@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CatMov</string>
+    <string name="terjadi_kesalahan">Terjadi Kesalahan</string>
+    <string name="favorite">Favorite</string>
+    <string name="tidak_ada_data_yang_difavoritkan">Tidak ada data yang difavoritkan</string>
+    <string name="rating">Rating: </string>
+    <string name="title_favorite">Favorite</string>
+</resources>
